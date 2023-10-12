@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Gedreven softwareontwikkelaar met een passie voor zowel frontend als backend</h3>
 
 <br/>
  
