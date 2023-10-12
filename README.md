@@ -1,4 +1,4 @@
-<h2>Hallo, Ik ben Davey Schulz!</h2>
+<h2 align="center">Hallo, Ik ben Davey Schulz!</h2>
 <h3 align="center">Gedreven softwareontwikkelaar met een passie voor zowel frontend als backend</h3>
 
 <br/>
